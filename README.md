@@ -1,5 +1,8 @@
 # ExifStudio MCP Server
 
+[![mcptry](https://mcptry.com/badge/io.github.samsali-g/exifstudio)](https://mcptry.com/servers/io.github.samsali-g/exifstudio)
+[![ExifStudio MCP connector](https://glama.ai/mcp/connectors/online.exifstudio/exif-studio/badges/score.svg)](https://glama.ai/mcp/connectors/online.exifstudio/exif-studio)
+
 Remote Streamable HTTP MCP server for **[ExifStudio](https://www.exifstudio.online)** — a 100% client-side, zero-upload photo and PDF metadata privacy suite.
 
 ## Remote Endpoint
