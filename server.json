@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.samsali-g/exifstudio",
+  "title": "ExifStudio — Client-Side EXIF & Metadata Privacy Tools",
+  "description": "Free 100% browser-local photo and PDF metadata tools: EXIF/IPTC/XMP editor, GPS stripper, C2PA inspector, camera shutter count checker, HEIC to JPG, and DPI converter.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.exifstudio.online",
+  "icons": [
+    {
+      "src": "https://www.exifstudio.online/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://www.exifstudio.online/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/samsali-g/exifstudio-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.exifstudio.online/mcp"
+    }
+  ]
+}
